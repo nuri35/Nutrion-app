@@ -1,13 +1,13 @@
 ## Nutrion-app
 
 
-![alt text](https://www.trtspor.com.tr/resimler/424000/425929.jpg)
+![alt text](https://i.nefisyemektarifleri.com/2021/01/29/saglikli-beslenmek-istiyorum-diyorsaniz-bu-6-besini-mutlaka-tuketin.jpg)
 
 
 
  ## :computer: Projenin Kurulumu
  
--Visual studio Code ile temiz kod yazabilmemiz için her dosyanın kendi görevini yapması için dosyaları görevlere ayıralım.Axios ve javascript kullanarak oluşturduğumuz rastgele futbol haberlerinde kullanıcılar bu uygulama sayesinde anlık canlı haberleri takip edebilecektir.
+-Visual studio Code ile temiz kod yazabilmemiz için her dosyanın kendi görevini yapması için dosyaları görevlere ayıralım.Axios ve javascript kullanarak oluşturduğumuz bu uygulamada kullanıcılar yemek türlerini seçebilir (gluten,vegan),italyan muftağı,çin mutfağı gibi filtreleme yapabilir.Son olarak besin ismini yazarak bununla ılgılı api kaynağından tarifler ve bunların besin değerleri gelmektedir.
 
 axios kullanımı nesne yönelimli proğramlamaya göre ayarlanmıştır.
 
@@ -27,8 +27,8 @@ axios kullanımı nesne yönelimli proğramlamaya göre ayarlanmıştır.
  ## 🙈: Proje içinden görüntüler
  
  
-![](https://github.com/nuri35/Random-news-app-/blob/master/images/a.PNG)
-![](https://github.com/nuri35/Random-news-app-/blob/master/images/xa.PNG)
+![](https://github.com/nuri35/Nutrion-app/blob/master/images/dfd.PNG)
+![](https://github.com/nuri35/Nutrion-app/blob/master/images/a.PNG)
 
 
 <h2> 🛠 &nbsp;Kullanılan Teknolojiler</h2>
