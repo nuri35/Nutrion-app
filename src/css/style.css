@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial;
+    font-size: 17px;
+  }
+  
+  #myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+  }
+  
+  .content {
+    position: fixed;
+    bottom: 0;
+    top:0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+    min-height: 100%;;
+  }
+
+  .card{
+    background: rgba(0, 0, 0, 0.5);
+    margin: 20px;
+    display: inline-block;
+  }
+
+  .card-title{
+    color: #f1f1f1;
+  }
+
+  .card-img-top {
+    opacity: 0.5;
+  }
+
+
+  .card-text{
+    color:darkkhaki;
+    padding: 5px;
+  }
