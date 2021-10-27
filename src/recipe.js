@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 class recipeapi{
-constructor(par){//parametrelerı gırcez
+constructor(par){
     
     this.query = par[0];
     this.cuisine= par[1];
@@ -59,7 +59,7 @@ async recipegetapi(){
 }
 
 
-export default function recipeget(parx) {//dısarıya sunacagım fonksıyon
+export default function recipeget(parx) {
 
     const tarifgetirx =  new recipeapi(parx).recipegetapi();
     return tarifgetirx;

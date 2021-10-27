@@ -89,28 +89,6 @@ for(let i =0; i<paz.length;i++){
 </div>
 `
 
-// ${nutrients[0].name} ${nutrients[0].amount} ${nutrients[0].unit+"<br>"}
-// ${nutrients[1].name} ${nutrients[1].amount} ${nutrients[1].unit+"<br>"}
-// ${nutrients[2].name} ${nutrients[2].amount} ${nutrients[2].unit+"<br>"}
-// ${nutrients[3].name} ${nutrients[3].amount} ${nutrients[3].unit+"<br>"}
-
-// this.abc = document.createElement("p");
-//  this.cardboy = document.querySelector(".card-body");
-
-// const {nutrition:{nutrients}} = paz[i];
-// // console.log(nutrients)
-// // this.px = document.querySelector(".px");
-
-
-// for(let m =0;m<nutrients.length;m++){
-   
-//    const {name,amount,unit} = nutrients[m];
-//    this.abc.innerHTML += name + " " + amount + " " + unit+"<br>";
-  
-
-// }
-// this.cardboy.appendChild(this.abc);
-
 }
 
 
